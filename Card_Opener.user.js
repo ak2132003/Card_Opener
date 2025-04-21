@@ -5,8 +5,8 @@
 // @description  فتح كروت بتصميم أنيق وتنفيذ مستقر 💼 بواسطة Dr Ahmed Khaled 👑
 // @author       Dr Ahmed Khaled
 // @match        *.centurygames.com/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/ak2132003/Card_Opener/raw/refs/heads/main/Card_Opener.user.js
+// @downloadURL  https://github.com/ak2132003/Card_Opener/raw/refs/heads/main/Card_Opener.user.js
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
